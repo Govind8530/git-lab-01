@@ -1,1 +1,1 @@
-# Git Lab project (Main Branch Version)
+# Git Lab Project
